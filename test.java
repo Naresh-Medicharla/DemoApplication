@@ -133,6 +133,7 @@ public class Main {
        
 	       thread.start();
 	       thread2.start();
+thread3.start();
 	      
 	       
 	}
